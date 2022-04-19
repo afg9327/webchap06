@@ -2,8 +2,8 @@
 
 + Web Programming Chapter 06
 
-- 블로그 주소
-  - http://afg9327naver.com
+- 브이로그 주소
+  - https://velog.io/@afg9327
   
 - Github 주소
   - https://github.com/afg9327
